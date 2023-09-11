@@ -3,4 +3,5 @@ Front end блога о творчестве, спорте и образе жи�
 
 Сайт доступен по ссылке: https://marina-verkutis.github.io/noemi-blog/
 
-![image](https://github.com/marina-verkutis/noemi-blog/assets/124586787/46d0bf18-f45b-46f4-8640-d2151b0febd0)
+![image](https://github.com/marina-verkutis/noemi-blog/assets/124586787/42b543e7-b51a-4413-8780-c0223548fa76)
+
